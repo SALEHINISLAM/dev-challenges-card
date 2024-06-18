@@ -51,7 +51,7 @@ hr{
         .container{
             grid-area: container;
             max-width: 368px;
-            margin: 0%;
+            margin: 5px;
             gap: 0px;
         }
         .body{
