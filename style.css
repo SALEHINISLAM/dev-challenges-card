@@ -46,6 +46,7 @@
 }
 hr{
     width: 100%;
+    color: #6c727f;
 }
 @media screen and (max-width:640px) {
         .container{
@@ -55,12 +56,8 @@ hr{
             gap: 0px;
         }
         .body{
-            
-            display: grid;
-            margin: 1rem;
-            grid-template-areas: 
-            "none container none"
-            ;
+            display: flex;
+            padding: 0.5rem;
             justify-content: center;
             align-items: center;
         }
