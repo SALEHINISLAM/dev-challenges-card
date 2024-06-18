@@ -65,6 +65,9 @@ hr{
             align-items: center;
         }
         .img{
-            padding: 1px;
+            padding: 4px;
+        }
+        .img>img{
+            height: auto;
         }
 }
